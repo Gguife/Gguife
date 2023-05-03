@@ -36,3 +36,12 @@
   <a href="mailto:gguife747@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div  align="center">
+  <hr width="50%">
+</div>
+
+<div class="stats" align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gguife&count_private=true&theme=algolia&border_radius=20)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gguife&layout=compact&theme=algolia)](https://github.com/Gguife/github-readme-stats)
