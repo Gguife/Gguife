@@ -20,6 +20,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=flat-square&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-Mysql-0D1117?style=flat-square&logo=mysql&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux&labelColor=0D1117)&nbsp;
 
