@@ -10,7 +10,7 @@
   />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Gguife;Desenvolvedor+web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=@gguife;Desenvolvedor+web)](https://git.io/typing-svg)
 
 
 # My name is Guilherme Gomes
