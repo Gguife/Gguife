@@ -14,7 +14,8 @@
 
 
 # My name is Guilherme Gomes
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=flat-square&logo=java&labelColor=0D1117)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-Spring-0D1117?style=flat-square&logo=spring&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=flat-square&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
