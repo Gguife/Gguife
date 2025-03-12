@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/gguife747@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gguife747@gmail.com)](mailto:gguife747@gmail.com)
 
 <div align="center">
-  <img src="https://i.imgur.com/PTD5J2s.png" alt=""
+  <img src="" alt=""
     width="150"
     height="auto"
     style="border-radius:50%"
